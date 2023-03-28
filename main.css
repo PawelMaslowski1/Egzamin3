@@ -1,0 +1,16 @@
+* {
+    background-color: rgb(248, 238, 238);
+  }
+  .imieEl {
+    font-size: 40px;
+    color: rgb(34, 93, 79);
+    text-shadow: black 5px;
+    font-weight: bolder;
+  }
+  
+  .nazwiskoEl {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 40px;
+    font-weight: 300;
+    color: rgb(20, 49, 218);
+  }
